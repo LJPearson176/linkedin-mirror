@@ -1,5 +1,5 @@
 ---
-title: "I’ve been reading Alan Kelly’s Elements of Influence- Playma"
+title: "I’ve Been Reading Alan Kelly’s Elements of Influence"
 date: "2026-08-18"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7495500991803363328"
 ---
@@ -38,9 +38,5 @@ If you have siblings, you might have discovered this earlier in life  😅  😇
 #WorldModels
 #Playmakers
 #IGotRoot 
-
-1
-​
-​
 
 ![Post media 1](./image-01.jpg)

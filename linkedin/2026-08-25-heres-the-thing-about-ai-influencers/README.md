@@ -1,10 +1,8 @@
 ---
-title: "6d •"
+title: "Here’s the Thing About AI Influencers..."
 date: "2026-08-25"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7498125130787708930"
 ---
-
-6d • 
 
 Here’s the thing about AI influencers...
 Most of them are marketers with knowledge of AI.
@@ -74,9 +72,5 @@ that’s risky business.
 #ResponsibleAI
 #DevSecOps
 #IGotRoot
-
-​
-​
-​
 
 ![Post media 1](./image-01.jpg)

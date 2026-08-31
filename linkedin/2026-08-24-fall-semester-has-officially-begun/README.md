@@ -23,8 +23,4 @@ Graph Algorithms... I'm coming ;) kekekek
 #DataStructures
 #PWN
 
-3
-​
-​
-
 ![Post media 1](./image-01.jpg)
