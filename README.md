@@ -13,4 +13,4 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-08-18 | [I’ve Been Reading Alan Kelly’s Elements of Influence](./linkedin/2026-08-18-ive-been-reading-alan-kellys-elements-of-influence/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7495500991803363328) |
 
 ---
-*Maintained automatically by the  agent skill.*
+*Maintained automatically by the `linkedin-github-mirror` agent skill.*
