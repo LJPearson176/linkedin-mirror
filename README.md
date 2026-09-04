@@ -47,6 +47,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-06-18 | [All about that bass… with treble.](./linkedin/2026-06-18-all-about-that-bass-with-treble/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473360715664461824) |
 | 2026-06-17 | [IGOTROOT](./linkedin/2026-06-17-igotroot/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473136146223443968/) |
 | 2026-06-17 | [Here’s the hypothesis…](./linkedin/2026-06-17-heres-the-hypothesis/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7472852813031813120) |
+| 2026-06-16 | [I've been seeing a lot of chatter about AI harnesses.](./linkedin/2026-06-16-ive-been-seeing-a-lot-of-chatter-about-ai-harnesse/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7472771854382993408/) |
 | 2026-06-15 | [#I Got Root](./linkedin/2026-06-15-i-got-root/README.md) | [LinkedIn Post](https://www.linkedin.com/pulse/i-got-root-lucas-pearson-bkcqe/) |
 
 ---
