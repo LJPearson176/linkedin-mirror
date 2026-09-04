@@ -16,6 +16,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-08-24 | [I Recently Discovered That Godzilla Has Three Eyes](./linkedin/2026-08-24-godzilla-has-three-eyes/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7495851491916828673) |
 | 2026-08-24 | [Fall semester has officially begun...](./linkedin/2026-08-24-fall-semester-has-officially-begun/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7497777694244298753) |
 | 2026-08-18 | [I’ve Been Reading Alan Kelly’s Elements of Influence](./linkedin/2026-08-18-ive-been-reading-alan-kellys-elements-of-influence/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7495500991803363328) |
+| 2026-08-12 | [I’ve been thinking about AEO — Answer Engine Optimization.](./linkedin/2026-08-12-ive-been-thinking-about-aeo-answer-engine-optimiza/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7493424152570302464) |
 | 2026-06-15 | [#I Got Root](./linkedin/2026-06-15-i-got-root/README.md) | [LinkedIn Post](https://www.linkedin.com/pulse/i-got-root-lucas-pearson-bkcqe/) |
 
 ---
