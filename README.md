@@ -64,6 +64,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-05-26 | [Napoleon Dynamite introduced a generation to the Liger.](./linkedin/2026-05-26-napoleon-dynamite-introduced-a-generation-to-the-l/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7464827960387293185/) |
 | 2026-05-26 | [Code Fusion: A codebase is not something you read](./linkedin/2026-05-26-code-fusion-a-codebase-is-not-something-you-read/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7465081886919479298/) |
 | 2026-05-25 | [Calling a meeting of the minds.](./linkedin/2026-05-25-calling-a-meeting-of-the-minds/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7464754135746146304/) |
+| 2026-05-20 | [OpenAI: Looks like you're hemorrhaging tokens broskies...](./linkedin/2026-05-20-openai-looks-like-youre-hemorrhaging-tokens-broskies/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7462952455455002624/) |
 | 2026-05-20 | [“Memory full.”](./linkedin/2026-05-20-memory-full/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7462916428858445824/) |
 | 2026-05-14 | [AI isn’t “brain rot.”](./linkedin/2026-05-14-ai-isnt-brain-rot/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7460641445511622656/) |
 | 2026-04-29 | [Nee-DONT!](./linkedin/2026-04-29-nee-dont/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7455298791643115520/) |
