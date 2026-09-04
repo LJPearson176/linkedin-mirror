@@ -1,35 +1,8 @@
 ---
-title: "Atlanta Metropolitan Area"
+title: "My 3-year-old can identify AI-generated videos on YouTube"
 date: "2026-06-21"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7474496586044080128"
 ---
-
-Atlanta Metropolitan Area
-
-Kohler Co.
-
-Get 4x more profile views with Premium
-
-Reactivate Premium: 50% Off
-
-Profile viewers
-
-92
-
-Post impressions
-
-4,303
-
-Feed post
-
-Lucas Pearson
-
- 
- • You
-
-Sales Consultant | Bug Bounty Hunter | SoftwareDev #IGotRoot #AlwaysBeBuilding
-
-2mo • Edited • 
 
 This is awesome.
 

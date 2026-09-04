@@ -1,35 +1,8 @@
 ---
-title: "Atlanta Metropolitan Area"
+title: "con tu madre…"
 date: "2026-06-19"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7473857156472197120"
 ---
-
-Atlanta Metropolitan Area
-
-Kohler Co.
-
-Get 4x more profile views with Premium
-
-Reactivate Premium: 50% Off
-
-Profile viewers
-
-92
-
-Post impressions
-
-4,303
-
-Feed post
-
-Lucas Pearson
-
- 
- • You
-
-Sales Consultant | Bug Bounty Hunter | SoftwareDev #IGotRoot #AlwaysBeBuilding
-
-2mo • 
 
 con tu madre… 
 with your mother...?

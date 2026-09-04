@@ -1,35 +1,8 @@
 ---
-title: "Atlanta Metropolitan Area"
+title: "We’ve been thinking about “personalization” at the wrong layer."
 date: "2026-06-23"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7475228780693794816"
 ---
-
-Atlanta Metropolitan Area
-
-Kohler Co.
-
-Get 4x more profile views with Premium
-
-Reactivate Premium: 50% Off
-
-Profile viewers
-
-92
-
-Post impressions
-
-4,302
-
-Feed post
-
-Lucas Pearson
-
- 
- • You
-
-Sales Consultant | Bug Bounty Hunter | SoftwareDev #IGotRoot #AlwaysBeBuilding
-
-2mo • 
 
 We’ve been thinking about “personalization” at the wrong layer.
 Most systems personalize content:

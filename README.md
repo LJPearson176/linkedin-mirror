@@ -29,22 +29,21 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-07-12 | [Too Funny. Everyone Talks About the “Godfathers of AI.”](./linkedin/2026-07-12-too-funny-everyone-talks-about-the-godfathers-of-ai/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7482092360223408128) |
 | 2026-07-08 | [I’m Curious How People Naturally Approach Complexity](./linkedin/2026-07-08-im-curious-how-people-naturally-approach-complexity/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7480428758651371520) |
 | 2026-07-08 | [How Do You Define Something?](./linkedin/2026-07-08-how-do-you-define-something/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7480661503302414336) |
-| 2026-07-08 | [Atlanta Metropolitan Area](./linkedin/2026-07-08-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7480750069747634176) |
+| 2026-07-08 | [Everyone talks about the AI adoption curve.](./linkedin/2026-07-08-everyone-talks-about-the-ai-adoption-curve/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7480750069747634176) |
 | 2026-07-06 | [Consider Your Bias and Prejudice](./linkedin/2026-07-06-consider-your-bias-and-prejudice/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7479738612209659905) |
 | 2026-07-02 | [What if Joint Embeddings Were First Observed in Human Societies?](./linkedin/2026-07-02-what-if-joint-embeddings-were-first-observed/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7478569504445378561) |
+| 2026-07-01 | [Thank you Fable 5...](./linkedin/2026-07-01-thank-you-fable-5/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7478207650938392577) |
 | 2026-07-01 | [I’m Guilty of Misusing the Term “World Model”](./linkedin/2026-07-01-im-guilty-of-misusing-the-term-world-model/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7478127926685814784) |
-| 2026-07-01 | [Atlanta Metropolitan Area](./linkedin/2026-07-01-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7478207650938392577) |
 | 2026-06-30 | [Identity as a Recursive Future Manifold](./linkedin/2026-06-30-identity-as-a-recursive-future-manifold/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7477838886342307840) |
 | 2026-06-29 | [One of My Biggest Misses from the Early GPT-3 Era](./linkedin/2026-06-29-one-of-my-biggest-misses-from-the-early-gpt-3-era/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7477495248064163840) |
-| 2026-06-29 | [Atlanta Metropolitan Area](./linkedin/2026-06-29-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7477172218288979968) |
-| 2026-06-26 | [Atlanta Metropolitan Area](./linkedin/2026-06-26-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7476398502168944640) |
-| 2026-06-23 | [Atlanta Metropolitan Area](./linkedin/2026-06-23-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7475228780693794816) |
-| 2026-06-22 | [Atlanta Metropolitan Area](./linkedin/2026-06-22-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7474835876171165697) |
-| 2026-06-21 | [Atlanta Metropolitan Area](./linkedin/2026-06-21-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7474496586044080128) |
-| 2026-06-20 | [Atlanta Metropolitan Area](./linkedin/2026-06-20-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473887344799080448) |
-| 2026-06-19 | [Atlanta Metropolitan Area](./linkedin/2026-06-19-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473857156472197120) |
-| 2026-06-18 | [Atlanta Metropolitan Area](./linkedin/2026-06-18-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473360715664461824) |
-| 2026-06-17 | [Atlanta Metropolitan Area](./linkedin/2026-06-17-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7472852813031813120) |
+| 2026-06-26 | [Hey there… You want to model? You want to get paid? Start here.](./linkedin/2026-06-26-hey-there-you-want-to-model/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7476398502168944640) |
+| 2026-06-23 | [We’ve been thinking about “personalization” at the wrong layer.](./linkedin/2026-06-23-weve-been-thinking-about-personalization-at-the-wrong-layer/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7475228780693794816) |
+| 2026-06-22 | [What’s up with applying meta-learning to humans?](./linkedin/2026-06-22-whats-up-with-applying-meta-learning-to-humans/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7474835876171165697) |
+| 2026-06-21 | [My 3-year-old can identify AI-generated videos on YouTube](./linkedin/2026-06-21-my-3-year-old-can-identify-ai-generated-videos/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7474496586044080128) |
+| 2026-06-20 | [Fancy Feast For Friday Friends! 🐱](./linkedin/2026-06-20-fancy-feast-for-friday-friends/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473887344799080448) |
+| 2026-06-19 | [con tu madre…](./linkedin/2026-06-19-con-tu-madre/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473857156472197120) |
+| 2026-06-18 | [All about that bass… with treble.](./linkedin/2026-06-18-all-about-that-bass-with-treble/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473360715664461824) |
+| 2026-06-17 | [Here’s the hypothesis…](./linkedin/2026-06-17-heres-the-hypothesis/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7472852813031813120) |
 | 2026-06-15 | [#I Got Root](./linkedin/2026-06-15-i-got-root/README.md) | [LinkedIn Post](https://www.linkedin.com/pulse/i-got-root-lucas-pearson-bkcqe/) |
 
 ---

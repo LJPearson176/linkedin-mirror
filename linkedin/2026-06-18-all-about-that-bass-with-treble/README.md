@@ -1,35 +1,8 @@
 ---
-title: "Atlanta Metropolitan Area"
+title: "All about that bass… with treble."
 date: "2026-06-18"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7473360715664461824"
 ---
-
-Atlanta Metropolitan Area
-
-Kohler Co.
-
-Get 4x more profile views with Premium
-
-Reactivate Premium: 50% Off
-
-Profile viewers
-
-92
-
-Post impressions
-
-4,305
-
-Feed post
-
-Lucas Pearson
-
- 
- • You
-
-Sales Consultant | Bug Bounty Hunter | SoftwareDev #IGotRoot #AlwaysBeBuilding
-
-2mo • 
 
 All about that bass… with treble. 🎵
 That’s right. It’s biological.

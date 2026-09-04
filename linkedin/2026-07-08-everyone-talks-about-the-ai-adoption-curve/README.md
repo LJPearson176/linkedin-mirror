@@ -1,37 +1,10 @@
 ---
-title: "Atlanta Metropolitan Area"
+title: "Everyone talks about the AI adoption curve."
 date: "2026-07-08"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7480750069747634176"
 cross_posted:
   - "https://www.linkedin.com/feed/update/urn:li:activity:7480741839323615232/"
 ---
-
-Atlanta Metropolitan Area
-
-Kohler Co.
-
-Get 4x more profile views with Premium
-
-Reactivate Premium: 50% Off
-
-Profile viewers
-
-92
-
-Post impressions
-
-4,298
-
-Feed post
-
-Lucas Pearson
-
- 
- • You
-
-Sales Consultant | Bug Bounty Hunter | SoftwareDev #IGotRoot #AlwaysBeBuilding
-
-1mo • 
 
 Everyone talks about the AI adoption curve.
 But I think we are measuring the wrong thing.

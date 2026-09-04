@@ -1,35 +1,8 @@
 ---
-title: "Atlanta Metropolitan Area"
+title: "What’s up with applying meta-learning to humans?"
 date: "2026-06-22"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7474835876171165697"
 ---
-
-Atlanta Metropolitan Area
-
-Kohler Co.
-
-Get 4x more profile views with Premium
-
-Reactivate Premium: 50% Off
-
-Profile viewers
-
-92
-
-Post impressions
-
-4,302
-
-Feed post
-
-Lucas Pearson
-
- 
- • You
-
-Sales Consultant | Bug Bounty Hunter | SoftwareDev #IGotRoot #AlwaysBeBuilding
-
-2mo • 
 
 What’s up with applying meta-learning to humans?
 

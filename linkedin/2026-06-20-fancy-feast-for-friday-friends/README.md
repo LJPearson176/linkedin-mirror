@@ -1,35 +1,8 @@
 ---
-title: "Atlanta Metropolitan Area"
+title: "Fancy Feast For Friday Friends! 🐱"
 date: "2026-06-20"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7473887344799080448"
 ---
-
-Atlanta Metropolitan Area
-
-Kohler Co.
-
-Get 4x more profile views with Premium
-
-Reactivate Premium: 50% Off
-
-Profile viewers
-
-92
-
-Post impressions
-
-4,303
-
-Feed post
-
-Lucas Pearson
-
- 
- • You
-
-Sales Consultant | Bug Bounty Hunter | SoftwareDev #IGotRoot #AlwaysBeBuilding
-
-2mo • 
 
 Fancy Feast For Friday Friends! 🐱
 If you're building in AI, I've got something for you to chew on.

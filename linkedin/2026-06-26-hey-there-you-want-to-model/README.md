@@ -1,34 +1,10 @@
 ---
-title: "Atlanta Metropolitan Area"
+title: "Hey there… You want to model? You want to get paid? Start here."
 date: "2026-06-26"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7476398502168944640"
 cross_posted:
   - "https://www.linkedin.com/feed/update/urn:li:activity:7476396514890715136/"
 ---
-
-Atlanta Metropolitan Area
-
-Kohler Co.
-
-Get 4x more profile views with Premium
-
-Reactivate Premium: 50% Off
-
-Profile viewers
-
-92
-
-Post impressions
-
-4,301
-
-Feed post
-
-Artificial Intelligence Exchange | AI Strategy, Engineering, Research & Applications
-
-Lucas Pearson • You
-
-2mo • 
 
 Hey there…
 You want to model? You want to get paid?

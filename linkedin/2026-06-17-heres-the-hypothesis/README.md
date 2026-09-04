@@ -1,35 +1,8 @@
 ---
-title: "Atlanta Metropolitan Area"
+title: "Here’s the hypothesis…"
 date: "2026-06-17"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7472852813031813120"
 ---
-
-Atlanta Metropolitan Area
-
-Kohler Co.
-
-Get 4x more profile views with Premium
-
-Reactivate Premium: 50% Off
-
-Profile viewers
-
-92
-
-Post impressions
-
-4,306
-
-Feed post
-
-Lucas Pearson
-
- 
- • You
-
-Sales Consultant | Bug Bounty Hunter | SoftwareDev #IGotRoot #AlwaysBeBuilding
-
-2mo • 
 
 Here’s the hypothesis…
 Our agent training and interaction techniques still have room to evolve.
