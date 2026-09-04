@@ -36,6 +36,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-07-01 | [Atlanta Metropolitan Area](./linkedin/2026-07-01-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7478207650938392577) |
 | 2026-06-30 | [Identity as a Recursive Future Manifold](./linkedin/2026-06-30-identity-as-a-recursive-future-manifold/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7477838886342307840) |
 | 2026-06-29 | [One of My Biggest Misses from the Early GPT-3 Era](./linkedin/2026-06-29-one-of-my-biggest-misses-from-the-early-gpt-3-era/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7477495248064163840) |
+| 2026-06-29 | [Atlanta Metropolitan Area](./linkedin/2026-06-29-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7477481771400515584) |
 | 2026-06-15 | [#I Got Root](./linkedin/2026-06-15-i-got-root/README.md) | [LinkedIn Post](https://www.linkedin.com/pulse/i-got-root-lucas-pearson-bkcqe/) |
 
 ---
