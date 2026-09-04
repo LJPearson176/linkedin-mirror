@@ -2,6 +2,8 @@
 title: "I’ve been thinking about AEO — Answer Engine Optimization."
 date: "2026-08-12"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7493339268698918912"
+cross_posted:
+  - "https://www.linkedin.com/feed/update/urn:li:activity:7493424152570302464"
 ---
 
 I’ve been thinking about AEO — Answer Engine Optimization.
