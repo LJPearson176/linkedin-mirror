@@ -1,31 +1,10 @@
 ---
-title: "Reactivate Premium: 50% Off"
+title: "How Do You Define Something?"
 date: "2026-07-08"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7480661503302414336"
 cross_posted:
   - "https://www.linkedin.com/feed/update/urn:li:activity:7480660738382966784/"
 ---
-
-Reactivate Premium: 50% Off
-
-Profile viewers
-
-92
-
-Post impressions
-
-4,270
-
-Feed post
-
-Lucas Pearson
-
- 
- • You
-
-Sales Consultant | Bug Bounty Hunter | SoftwareDev #IGotRoot #AlwaysBeBuilding
-
-1mo • 
 
 How do you define something?
 By what it is?

@@ -1,5 +1,5 @@
 ---
-title: "![Cover image](./image-01.jpg)"
+title: "#I Got Root"
 date: "2026-06-15"
 source: "https://www.linkedin.com/pulse/i-got-root-lucas-pearson-bkcqe/"
 ---

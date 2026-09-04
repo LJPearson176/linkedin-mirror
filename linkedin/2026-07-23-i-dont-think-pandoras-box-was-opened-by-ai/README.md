@@ -1,5 +1,5 @@
 ---
-title: "1mo •"
+title: "I Don't Think Pandora's Box Was Opened by AI"
 date: "2026-07-23"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7486123818969726976"
 ---

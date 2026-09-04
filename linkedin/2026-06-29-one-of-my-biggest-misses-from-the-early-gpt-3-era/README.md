@@ -1,5 +1,5 @@
 ---
-title: "2mo •"
+title: "One of My Biggest Misses from the Early GPT-3 Era"
 date: "2026-06-29"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7477495248064163840"
 cross_posted:

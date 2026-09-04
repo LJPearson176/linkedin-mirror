@@ -1,5 +1,5 @@
 ---
-title: "1mo •"
+title: "What is Intelligence and Why Humans May Not Fully Embody It"
 date: "2026-07-17"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7483927240750174208"
 ---

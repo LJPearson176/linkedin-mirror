@@ -1,5 +1,5 @@
 ---
-title: "2mo •"
+title: "What if Joint Embeddings Were First Observed in Human Societies?"
 date: "2026-07-02"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7478569504445378561"
 ---

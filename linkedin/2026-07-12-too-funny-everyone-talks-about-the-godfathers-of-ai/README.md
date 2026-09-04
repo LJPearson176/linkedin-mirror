@@ -1,5 +1,5 @@
 ---
-title: "1mo •"
+title: "Too Funny. Everyone Talks About the “Godfathers of AI.”"
 date: "2026-07-12"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7482092360223408128"
 cross_posted:

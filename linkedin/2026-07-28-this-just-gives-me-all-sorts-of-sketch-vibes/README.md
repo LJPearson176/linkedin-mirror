@@ -1,5 +1,5 @@
 ---
-title: "1mo •"
+title: "This Just Gives Me All Sorts of Sketch Vibes"
 date: "2026-07-28"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7487928047594147841"
 cross_posted:

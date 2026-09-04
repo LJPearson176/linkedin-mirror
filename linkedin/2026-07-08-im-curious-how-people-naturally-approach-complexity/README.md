@@ -1,5 +1,5 @@
 ---
-title: "1mo •"
+title: "I’m Curious How People Naturally Approach Complexity"
 date: "2026-07-08"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7480428758651371520"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2mo •"
+title: "I’m Guilty of Misusing the Term “World Model”"
 date: "2026-07-01"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7478127926685814784"
 cross_posted:

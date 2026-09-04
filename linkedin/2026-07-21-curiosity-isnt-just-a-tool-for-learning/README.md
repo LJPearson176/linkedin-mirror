@@ -1,5 +1,5 @@
 ---
-title: "1mo •"
+title: "Curiosity Isn't Just a Tool for Learning—It May Be One of the Foundations of Empathy"
 date: "2026-07-21"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7485401755942457344"
 ---
