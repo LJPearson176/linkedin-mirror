@@ -62,6 +62,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-05-27 | [There’s an under-discussed competitive advantage that begins long](./linkedin/2026-05-27-theres-an-under-discussed-competitive-advantage-th/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7465352364967849984/) |
 | 2026-05-26 | [Napoleon Dynamite introduced a generation to the Liger.](./linkedin/2026-05-26-napoleon-dynamite-introduced-a-generation-to-the-l/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7464827960387293185/) |
 | 2026-05-26 | [2](./linkedin/2026-05-26-2/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7465144743216402432/) |
+| 2026-05-25 | [Calling a meeting of the minds.](./linkedin/2026-05-25-calling-a-meeting-of-the-minds/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7464754135746146304/) |
 
 ---
 *Maintained automatically by the `linkedin-github-mirror` agent skill.*
