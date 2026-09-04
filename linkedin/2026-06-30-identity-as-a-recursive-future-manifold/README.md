@@ -2,6 +2,8 @@
 title: "Identity as a Recursive Future Manifold"
 date: "2026-06-30"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7477838886342307840"
+cross_posted:
+  - "https://www.linkedin.com/feed/update/urn:li:activity:7468411871415513088/"
 ---
 
 2mo •
