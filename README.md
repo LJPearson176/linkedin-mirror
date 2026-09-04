@@ -18,6 +18,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-08-18 | [I’ve Been Reading Alan Kelly’s Elements of Influence](./linkedin/2026-08-18-ive-been-reading-alan-kellys-elements-of-influence/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7495500991803363328) |
 | 2026-08-12 | [I’ve been thinking about AEO — Answer Engine Optimization.](./linkedin/2026-08-12-ive-been-thinking-about-aeo-answer-engine-optimiza/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7493339268698918912) |
 | 2026-08-12 | [Google vs. Facebook.](./linkedin/2026-08-12-google-vs-facebook/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7493315208883589120) |
+| 2026-08-11 | [Referential Propagation](./linkedin/2026-08-11-referential-propagation/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7493003337169133568) |
 | 2026-06-15 | [#I Got Root](./linkedin/2026-06-15-i-got-root/README.md) | [LinkedIn Post](https://www.linkedin.com/pulse/i-got-root-lucas-pearson-bkcqe/) |
 
 ---
