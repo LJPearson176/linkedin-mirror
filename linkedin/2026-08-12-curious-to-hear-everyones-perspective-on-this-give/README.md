@@ -1,6 +1,6 @@
 ---
 title: "Curious to hear everyone's perspective on this given the ris"
-date: "2026-09-04"
+date: "2026-08-12"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7493424660328628225"
 ---
 

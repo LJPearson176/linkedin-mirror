@@ -1,6 +1,6 @@
 ---
 title: "Dang."
-date: "2026-09-04"
+date: "2026-08-13"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7493688517919727617"
 ---
 

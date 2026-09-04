@@ -1,6 +1,6 @@
 ---
 title: "Hot off the press — MS Patch Tuesday nightmare fail."
-date: "2026-09-04"
+date: "2026-08-12"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7493429870685937664"
 ---
 
