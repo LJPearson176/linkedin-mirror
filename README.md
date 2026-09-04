@@ -23,6 +23,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-08-10 | [I think AI’s next major opportunity may be scientific discov](./linkedin/2026-08-10-i-think-ais-next-major-opportunity-may-be-scientif/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7492686225229840384) |
 | 2026-08-10 | [As we watch the recent wave of frontier AI “sandbox escapes.](./linkedin/2026-08-10-as-we-watch-the-recent-wave-of-frontier-ai-sandbox/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7492675206445146115) |
 | 2026-07-28 | [1mo •](./linkedin/2026-07-28-1mo/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7487928047594147841) |
+| 2026-07-23 | [1mo •](./linkedin/2026-07-23-1mo/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7486123818969726976) |
 | 2026-06-15 | [#I Got Root](./linkedin/2026-06-15-i-got-root/README.md) | [LinkedIn Post](https://www.linkedin.com/pulse/i-got-root-lucas-pearson-bkcqe/) |
 
 ---
