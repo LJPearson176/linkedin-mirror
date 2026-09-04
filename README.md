@@ -45,6 +45,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-06-19 | [con tu madre…](./linkedin/2026-06-19-con-tu-madre/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473857156472197120) |
 | 2026-06-18 | [https://www.axios.com/2026/06/17/democratic-sewer-socialism-moder](./linkedin/2026-06-18-httpswwwaxioscom20260617democratic-sewer-socialism/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473494759127543808/) |
 | 2026-06-18 | [All about that bass… with treble.](./linkedin/2026-06-18-all-about-that-bass-with-treble/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473360715664461824) |
+| 2026-06-17 | [IGOTROOT](./linkedin/2026-06-17-igotroot/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473136146223443968/) |
 | 2026-06-17 | [Here’s the hypothesis…](./linkedin/2026-06-17-heres-the-hypothesis/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7472852813031813120) |
 | 2026-06-15 | [#I Got Root](./linkedin/2026-06-15-i-got-root/README.md) | [LinkedIn Post](https://www.linkedin.com/pulse/i-got-root-lucas-pearson-bkcqe/) |
 
