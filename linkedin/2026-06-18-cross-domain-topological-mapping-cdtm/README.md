@@ -1,5 +1,5 @@
 ---
-title: "https://www.axios.com/2026/06/17/democratic-sewer-socialism-moder"
+title: "Cross-Domain Topological Mapping (CDTM)"
 date: "2026-06-18"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7473494759127543808/"
 ---

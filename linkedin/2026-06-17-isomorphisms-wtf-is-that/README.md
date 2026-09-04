@@ -1,5 +1,5 @@
 ---
-title: "IGOTROOT"
+title: "Isomorphisms... wtf is that?"
 date: "2026-06-17"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7473136146223443968/"
 ---
