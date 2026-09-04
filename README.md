@@ -43,6 +43,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-06-21 | [My 3-year-old can identify AI-generated videos on YouTube](./linkedin/2026-06-21-my-3-year-old-can-identify-ai-generated-videos/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7474496586044080128) |
 | 2026-06-20 | [Fancy Feast For Friday Friends! 🐱](./linkedin/2026-06-20-fancy-feast-for-friday-friends/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473887344799080448) |
 | 2026-06-19 | [con tu madre…](./linkedin/2026-06-19-con-tu-madre/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473857156472197120) |
+| 2026-06-18 | [https://www.axios.com/2026/06/17/democratic-sewer-socialism-moder](./linkedin/2026-06-18-httpswwwaxioscom20260617democratic-sewer-socialism/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473494759127543808/) |
 | 2026-06-18 | [All about that bass… with treble.](./linkedin/2026-06-18-all-about-that-bass-with-treble/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473360715664461824) |
 | 2026-06-17 | [Here’s the hypothesis…](./linkedin/2026-06-17-heres-the-hypothesis/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7472852813031813120) |
 | 2026-06-15 | [#I Got Root](./linkedin/2026-06-15-i-got-root/README.md) | [LinkedIn Post](https://www.linkedin.com/pulse/i-got-root-lucas-pearson-bkcqe/) |
