@@ -38,4 +38,3 @@ What "nutrients"—people, experiences, environments, or opportunities—have be
 #IGotRoot #GrowingIntelligence #SystemsThinking #FromBiologyToAI #UnderstandingSystems #EmergentIntelligence #HumanPotential
 
 ![Post media 1](./image-01.jpg)
-

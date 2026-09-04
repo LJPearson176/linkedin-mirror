@@ -58,4 +58,3 @@ Maybe he was writing the first architecture diagram for agency.
 1
 
 ![Post media 1](./image-01.jpg)
-

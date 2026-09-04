@@ -22,4 +22,3 @@ The archive is part of the organism.
 #HumanOrigins #Evolution #AI #KnowledgeArchitecture #IGotRoot #SiteMaintenance
 
 ![Post media 1](./image-01.jpg)
-

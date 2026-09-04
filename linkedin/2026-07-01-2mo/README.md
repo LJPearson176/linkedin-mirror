@@ -48,4 +48,3 @@ MORE HONEY MORE MONEY
 1
 
 ![Post media 1](./image-01.jpg)
-

@@ -24,4 +24,3 @@ So here's the question: what other concepts — from any domain — share this r
 2
 
 ![Post media 1](./image-01.jpg)
-

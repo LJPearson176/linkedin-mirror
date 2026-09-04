@@ -29,4 +29,3 @@ Maybe it was quietly demonstrating the architecture of advanced world models all
 1
 
 ![Post media 1](./image-01.jpg)
-

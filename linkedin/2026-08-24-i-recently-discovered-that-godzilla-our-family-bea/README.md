@@ -1,5 +1,5 @@
 ---
-title: "I Recently Discovered That Godzilla Has Three Eyes"
+title: "I recently discovered that Godzilla, our family Bearded Drag"
 date: "2026-08-24"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7495851491916828673"
 cross_posted:

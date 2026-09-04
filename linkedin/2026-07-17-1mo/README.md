@@ -73,4 +73,3 @@ Intelligence that can model the world without losing its relationship to the wor
 1
 
 ![Post media 1](./image-01.jpg)
-

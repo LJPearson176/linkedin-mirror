@@ -43,4 +43,3 @@ A more interesting framing is that intelligence isn’t a ladder at all, but a l
 1
 
 ![Post media 1](./image-01.jpg)
-

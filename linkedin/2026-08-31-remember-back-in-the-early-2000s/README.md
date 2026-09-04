@@ -1,5 +1,5 @@
 ---
-title: "Remember Back in the Early 2000s..."
+title: "Remember back in the early 2000s..."
 date: "2026-08-31"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7500030586783186944"
 cross_posted:

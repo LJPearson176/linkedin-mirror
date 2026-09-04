@@ -71,4 +71,3 @@ It's much less generous about providing the brakes.
 2
 
 ![Post media 1](./image-01.jpg)
-

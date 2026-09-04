@@ -1,5 +1,5 @@
 ---
-title: "Here’s the Thing About AI Influencers..."
+title: "Here’s the thing about AI influencers..."
 date: "2026-08-25"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7498125130787708930"
 ---

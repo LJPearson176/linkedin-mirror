@@ -1,5 +1,5 @@
 ---
-title: "I’ve Been Reading Alan Kelly’s Elements of Influence"
+title: "I’ve been reading Alan Kelly’s Elements of Influence- Playma"
 date: "2026-08-18"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7495500991803363328"
 ---

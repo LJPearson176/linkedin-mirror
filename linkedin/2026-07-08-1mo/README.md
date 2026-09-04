@@ -59,4 +59,3 @@ Remove vote
 
 5
 4
-
