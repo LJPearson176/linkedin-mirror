@@ -50,6 +50,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-06-16 | [I've been seeing a lot of chatter about AI harnesses.](./linkedin/2026-06-16-ive-been-seeing-a-lot-of-chatter-about-ai-harnesse/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7472771854382993408/) |
 | 2026-06-15 | [I should’ve said this earlier—dream compression is only part of t](./linkedin/2026-06-15-i-shouldve-said-this-earlierdream-compression-is-o/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7472150381985239040/) |
 | 2026-06-15 | [#I Got Root](./linkedin/2026-06-15-i-got-root/README.md) | [LinkedIn Post](https://www.linkedin.com/pulse/i-got-root-lucas-pearson-bkcqe/) |
+| 2026-06-15 | [AI thinks God is a White Woman... I think she is Brown--](./linkedin/2026-06-15-ai-thinks-god-is-a-white-woman-i-think-she-is-brow/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7472137929675657216/) |
 
 ---
 *Maintained automatically by the `linkedin-github-mirror` agent skill.*
