@@ -32,6 +32,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-07-06 | [1mo •](./linkedin/2026-07-06-1mo/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7479738612209659905) |
 | 2026-07-02 | [2mo •](./linkedin/2026-07-02-2mo/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7478569504445378561) |
 | 2026-07-01 | [2mo •](./linkedin/2026-07-01-2mo/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7478127926685814784) |
+| 2026-06-30 | [2mo •](./linkedin/2026-06-30-2mo/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7477838886342307840) |
 | 2026-06-15 | [#I Got Root](./linkedin/2026-06-15-i-got-root/README.md) | [LinkedIn Post](https://www.linkedin.com/pulse/i-got-root-lucas-pearson-bkcqe/) |
 
 ---
