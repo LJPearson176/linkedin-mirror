@@ -8,6 +8,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | :--- | :--- | :--- |
 | 2026-09-04 | [Hot off the press — MS Patch Tuesday nightmare fail.](./linkedin/2026-09-04-hot-off-the-press-ms-patch-tuesday-nightmare-fail/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7493429870685937664) |
 | 2026-09-04 | [Dang.](./linkedin/2026-09-04-dang/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7493688517919727617) |
+| 2026-09-04 | [Curious to hear everyone's perspective on this given the ris](./linkedin/2026-09-04-curious-to-hear-everyones-perspective-on-this-give/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7493424660328628225) |
 | 2026-08-31 | [Remember Back in the Early 2000s...](./linkedin/2026-08-31-remember-back-in-the-early-2000s/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7500030586783186944) |
 | 2026-08-30 | [Surface Tension As A Universal Avoidance](./linkedin/2026-08-30-surface-tension-as-a-universal-avoidance/README.md) | [LinkedIn Post](https://www.linkedin.com/pulse/surface-tension-universal-avoidance-lucas-pearson-o7b9e/) |
 | 2026-08-30 | [Proud parent moment.](./linkedin/2026-08-30-proud-parent-moment/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7499700048641925120) |
