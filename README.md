@@ -58,6 +58,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-06-01 | [JEPA the bread.](./linkedin/2026-06-01-jepa-the-bread/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7467322839600267264/) |
 | 2026-05-29 | [It'd be interesting to see how the BRAID AI reasoning framework c](./linkedin/2026-05-29-itd-be-interesting-to-see-how-the-braid-ai-reasoni/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7466141374124589056/) |
 | 2026-05-29 | [Hey guys... Brainiac noticed a cluster density in the kids behavi](./linkedin/2026-05-29-hey-guys-brainiac-noticed-a-cluster-density-in-the/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7466228126340067330/) |
+| 2026-05-28 | [Third-party cookies are dead. Data brokers are extracting your fa](./linkedin/2026-05-28-third-party-cookies-are-dead-data-brokers-are-extr/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7465886650527830016/) |
 
 ---
 *Maintained automatically by the `linkedin-github-mirror` agent skill.*
