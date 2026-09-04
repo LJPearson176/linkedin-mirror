@@ -2,6 +2,8 @@
 title: "Surface Tension As A Universal Avoidance"
 date: "2026-08-30"
 source: "https://www.linkedin.com/pulse/surface-tension-universal-avoidance-lucas-pearson-o7b9e/"
+cross_posted:
+  - "https://www.linkedin.com/feed/update/urn:li:activity:7499953506984992768/"
 ---
 
 ![Cover image](./image-01.jpg)
