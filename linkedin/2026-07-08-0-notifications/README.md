@@ -1,9 +1,9 @@
 ---
 title: "0 notifications"
 date: "2026-07-08"
-source: "https://www.linkedin.com/feed/update/urn:li:activity:7480750069747634176"
+source: "https://www.linkedin.com/feed/update/urn:li:activity:7480661503302414336"
 cross_posted:
-  - "https://www.linkedin.com/feed/update/urn:li:activity:7480741839323615232/"
+  - "https://www.linkedin.com/feed/update/urn:li:activity:7480660738382966784/"
 ---
 
 0 notifications
@@ -39,7 +39,7 @@ Profile viewers
 
 Post impressions
 
-4,269
+4,270
 
 Feed post
 
@@ -52,48 +52,65 @@ Sales Consultant | Bug Bounty Hunter | SoftwareDev #IGotRoot #AlwaysBeBuilding
 
 1mo • 
 
-Everyone talks about the AI adoption curve.
-But I think we are measuring the wrong thing.
+How do you define something?
+By what it is?
+Or by how it interacts with everything around it?
 
-The question isn't:
-"How many AI tools did your company buy?"
+Who. What. Where. Why. When. How.
+These questions don't just describe an object — they define its identity.
 
-The question is:
-"Did your organization become capable of learning?"
+Consider this thought experiment:
+I am holding a cup of water in my right hand.
+How much does it weigh?
+6 oz?
+8 oz?
+1 lb?
 
-Most companies stop here:
-→ Buying AI tools
-→ Running pilots
-→ Building agents
+The answer depends on the system.
+The cup itself has not changed.
+Its mass is constant.
+Its structure is unchanged.
+Its internal constitution remains the same.
 
-The real transformation happens when AI stops being a tool attached to the organization...
-and becomes part of the organization's intelligence loop.
+But my relationship with it changes.
+After 1 minute:
+The cup feels almost weightless.
+After 5 minutes:
+Fatigue begins. The same cup becomes harder to hold.
+After 1 hour:
+The cup becomes nearly impossible to sustain.
 
-The next generation of companies won't just automate workflows.
-They will build systems that:
-• observe
-• learn
-• predict
-• adapt
-• improve
+The cup did not become heavier.
+The interaction changed.
+The observer changed.
+The environment changed.
+The network changed.
+This is true far beyond physics.
 
-The competitive advantage won't be who has access to AI.
-Everyone will.
+People, ideas, organizations, and technologies are not defined only by their internal properties.
+They are defined by their connections.
 
-The advantage will belong to the organizations that can learn faster than their environment changes.
+The right network can make a burden feel effortless.
+The wrong network can turn a small weight into an overwhelming force.
+Your environment shapes your perceived reality.
 
-AI adoption is the beginning.
+Manage your connections.
+Prune what drains you.
+Plant seeds where growth is possible.
 
-Organizational intelligence is the destination.
+Because your network can determine whether you become weightless...
+or whether you become a force capable of moving mountains.
 
 #IGotRoot
-#SystemsThinking
-#OrganizationalIntelligence
-#AgenticAI
+#RepresentationLearning
+#Networking
+#RelationshipsMatter
+#Perception
+#PhilosophyOfMind
+#HumanSystems
+#SocialSystems
 #WorldModels
-#FutureOfWork
-
-2
+#ArtificialIntelligence
 
 1
 
