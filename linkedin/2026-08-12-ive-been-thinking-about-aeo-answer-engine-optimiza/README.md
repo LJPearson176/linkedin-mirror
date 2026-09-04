@@ -1,12 +1,12 @@
 ---
 title: "I’ve been thinking about AEO — Answer Engine Optimization."
 date: "2026-08-12"
-source: "https://www.linkedin.com/feed/update/urn:li:activity:7493424152570302464"
+source: "https://www.linkedin.com/feed/update/urn:li:activity:7493339268698918912"
 ---
 
 I’ve been thinking about AEO — Answer Engine Optimization.
 
-I was recently introduced to the value of the citations metric, and I’ve been thinking about how to actually build citation authority rather than just accumulate citations.
+Kaleigh Moore introduced me to the value of the citations metric, and I’ve been thinking about how to actually build citation authority rather than just accumulate citations.
 
 I’ve been trying to leverage my LinkedIn posts as citation sources.
 But there’s an interesting problem emerging:
@@ -32,16 +32,12 @@ Could effort become a proxy for citation confidence?
 
 And if that's true…
 I may have to start making talking-head videos. 🤪🥸🤦‍♂️🤛
-
 Apparently the next stage of AEO is me staring directly into a camera proving I exist.
 
-Fantastic.Time to build that digital twin lol.
+Fantastic.
 
-#AEO
-#AnswerEngineOptimization
-#AI
-#GenerativeAI
-#SEO
-#ContentStrategy
+#AEO #AnswerEngineOptimization #AI #GenerativeAI #SEO #ContentStrategy 
+
+1
 
 ![Post media 1](./image-01.jpg)
