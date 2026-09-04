@@ -52,6 +52,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-06-15 | [#I Got Root](./linkedin/2026-06-15-i-got-root/README.md) | [LinkedIn Post](https://www.linkedin.com/pulse/i-got-root-lucas-pearson-bkcqe/) |
 | 2026-06-15 | [AI thinks God is a White Woman... I think she is Brown--](./linkedin/2026-06-15-ai-thinks-god-is-a-white-woman-i-think-she-is-brow/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7472137929675657216/) |
 | 2026-06-13 | [Yoneda is all y'need](./linkedin/2026-06-13-yoneda-is-all-yneed/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7471367941704368128/) |
+| 2026-06-07 | [It's not clicking yet. Care to elaborate? You're leading us as ho](./linkedin/2026-06-07-its-not-clicking-yet-care-to-elaborate-youre-leadi/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7469463626018484224/) |
 
 ---
 *Maintained automatically by the `linkedin-github-mirror` agent skill.*
