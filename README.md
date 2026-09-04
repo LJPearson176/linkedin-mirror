@@ -60,6 +60,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-05-29 | [Hey guys... Brainiac noticed a cluster density in the kids behavi](./linkedin/2026-05-29-hey-guys-brainiac-noticed-a-cluster-density-in-the/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7466228126340067330/) |
 | 2026-05-28 | [Third-party cookies are dead. Data brokers are extracting your fa](./linkedin/2026-05-28-third-party-cookies-are-dead-data-brokers-are-extr/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7465886650527830016/) |
 | 2026-05-27 | [There’s an under-discussed competitive advantage that begins long](./linkedin/2026-05-27-theres-an-under-discussed-competitive-advantage-th/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7465352364967849984/) |
+| 2026-05-26 | [Napoleon Dynamite introduced a generation to the Liger.](./linkedin/2026-05-26-napoleon-dynamite-introduced-a-generation-to-the-l/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7464827960387293185/) |
 | 2026-05-26 | [2](./linkedin/2026-05-26-2/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7465144743216402432/) |
 
 ---
