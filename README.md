@@ -54,6 +54,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-06-13 | [Yoneda is all y'need](./linkedin/2026-06-13-yoneda-is-all-yneed/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7471367941704368128/) |
 | 2026-06-07 | [It's not clicking yet. Care to elaborate? You're leading us as ho](./linkedin/2026-06-07-its-not-clicking-yet-care-to-elaborate-youre-leadi/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7469463626018484224/) |
 | 2026-06-03 | [The forge is lit... $0 in API costs](./linkedin/2026-06-03-the-forge-is-lit-0-in-api-costs/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7467977916899971072/) |
+| 2026-06-02 | [FamilyNet: Yoneda + JEPA + Voxel Synergy](./linkedin/2026-06-02-familynet-yoneda-jepa-voxel-synergy/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7467700387156901888/) |
 
 ---
 *Maintained automatically by the `linkedin-github-mirror` agent skill.*
