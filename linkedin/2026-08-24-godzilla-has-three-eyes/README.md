@@ -2,6 +2,8 @@
 title: "I Recently Discovered That Godzilla Has Three Eyes"
 date: "2026-08-24"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7495851491916828673"
+cross_posted:
+  - "https://www.linkedin.com/feed/update/urn:li:activity:7495850986553434112"
 ---
 
 I recently discovered that Godzilla, our family Bearded Dragon, has three eyes.
