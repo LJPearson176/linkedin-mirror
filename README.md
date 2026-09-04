@@ -41,6 +41,7 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-06-23 | [Atlanta Metropolitan Area](./linkedin/2026-06-23-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7475228780693794816) |
 | 2026-06-22 | [Atlanta Metropolitan Area](./linkedin/2026-06-22-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7474835876171165697) |
 | 2026-06-21 | [Atlanta Metropolitan Area](./linkedin/2026-06-21-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7474496586044080128) |
+| 2026-06-20 | [Atlanta Metropolitan Area](./linkedin/2026-06-20-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7473887344799080448) |
 | 2026-06-15 | [#I Got Root](./linkedin/2026-06-15-i-got-root/README.md) | [LinkedIn Post](https://www.linkedin.com/pulse/i-got-root-lucas-pearson-bkcqe/) |
 
 ---
