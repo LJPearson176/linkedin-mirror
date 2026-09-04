@@ -6,7 +6,7 @@ cross_posted:
   - "https://www.linkedin.com/feed/update/urn:li:activity:7475360188116680704/"
 ---
 
-2mo • 
+2mo •
 
 I’m guilty of misusing the term “world model.”
 Ask yourself—are you too?
@@ -48,3 +48,4 @@ MORE HONEY MORE MONEY
 1
 
 ![Post media 1](./image-01.jpg)
+

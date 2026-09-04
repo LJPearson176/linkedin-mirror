@@ -27,8 +27,8 @@ A durable, public GitHub mirror of authored LinkedIn posts by **Lucas Pearson**.
 | 2026-07-21 | [1mo •](./linkedin/2026-07-21-1mo/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7485401755942457344) |
 | 2026-07-17 | [1mo •](./linkedin/2026-07-17-1mo/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7483927240750174208) |
 | 2026-07-12 | [1mo •](./linkedin/2026-07-12-1mo/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7482092360223408128) |
+| 2026-07-08 | [Atlanta Metropolitan Area](./linkedin/2026-07-08-atlanta-metropolitan-area/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7480661503302414336) |
 | 2026-07-08 | [1mo •](./linkedin/2026-07-08-1mo/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7480428758651371520) |
-| 2026-07-08 | [0 notifications](./linkedin/2026-07-08-0-notifications/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7480661503302414336) |
 | 2026-07-06 | [1mo •](./linkedin/2026-07-06-1mo/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7479738612209659905) |
 | 2026-07-02 | [2mo •](./linkedin/2026-07-02-2mo/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7478569504445378561) |
 | 2026-07-01 | [2mo •](./linkedin/2026-07-01-2mo/README.md) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7478127926685814784) |

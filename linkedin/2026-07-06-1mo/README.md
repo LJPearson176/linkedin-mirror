@@ -6,7 +6,7 @@ cross_posted:
   - "https://www.linkedin.com/feed/update/urn:li:activity:7479738113599156224/"
 ---
 
-1mo • 
+1mo •
 
 Consider your bias and prejudice. 
 All of them. 
@@ -43,3 +43,4 @@ A more interesting framing is that intelligence isn’t a ladder at all, but a l
 1
 
 ![Post media 1](./image-01.jpg)
+

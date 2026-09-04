@@ -1,29 +1,10 @@
 ---
-title: "0 notifications"
+title: "Atlanta Metropolitan Area"
 date: "2026-07-08"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7480661503302414336"
 cross_posted:
   - "https://www.linkedin.com/feed/update/urn:li:activity:7480660738382966784/"
 ---
-
-0 notifications
-Skip to search
-Skip to main content
-Skip to sidebar
-Skip to primary content
-Skip to aside
-Home
-My Network
-Jobs
-Messaging
-Notifications
-Me
-For Business
-Advertise
-
-Lucas Pearson
-
-Sales Consultant | Bug Bounty Hunter | SoftwareDev #IGotRoot #AlwaysBeBuilding
 
 Atlanta Metropolitan Area
 
@@ -115,3 +96,4 @@ or whether you become a force capable of moving mountains.
 1
 
 ![Post media 1](./image-01.jpg)
+

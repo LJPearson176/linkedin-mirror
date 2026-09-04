@@ -6,7 +6,7 @@ cross_posted:
   - "https://www.linkedin.com/feed/update/urn:li:activity:7477484799537090560/"
 ---
 
-2mo • 
+2mo •
 
 One of my biggest misses from the early GPT-3 era was not following my own intuition.
 Back then, I became obsessed with the octopus as a model organism for Al—not because of "intelligence" in the usual sense, but because of its distributed nervous system, dense sensory integration, and adaptive behavior.
@@ -29,3 +29,4 @@ Maybe it was quietly demonstrating the architecture of advanced world models all
 1
 
 ![Post media 1](./image-01.jpg)
+

@@ -4,7 +4,7 @@ date: "2026-07-23"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7486123818969726976"
 ---
 
-1mo • 
+1mo •
 
 I don't think Pandora's Box was opened by AI.
 I don't even think it was opened by the Industrial Revolution.
@@ -71,3 +71,4 @@ It's much less generous about providing the brakes.
 2
 
 ![Post media 1](./image-01.jpg)
+

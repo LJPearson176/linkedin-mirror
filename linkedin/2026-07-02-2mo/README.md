@@ -4,7 +4,7 @@ date: "2026-07-02"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7478569504445378561"
 ---
 
-2mo • 
+2mo •
 
 What if joint embeddings were first observed in human societies?
 Durkheim's collective effervescence describes what happens when groups synchronize through ritual, chant, or shared attention: individuals temporarily dissolve separation and converge into a state of meaning no single mind fully contains.
@@ -24,3 +24,4 @@ So here's the question: what other concepts — from any domain — share this r
 2
 
 ![Post media 1](./image-01.jpg)
+

@@ -4,7 +4,7 @@ date: "2026-07-08"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7480428758651371520"
 ---
 
-1mo • 
+1mo •
 
 I’m curious how people naturally approach complexity.
 
@@ -59,3 +59,4 @@ Remove vote
 
 5
 4
+

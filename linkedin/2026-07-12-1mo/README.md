@@ -6,7 +6,7 @@ cross_posted:
   - "https://www.linkedin.com/feed/update/urn:li:activity:7482092213015982080/"
 ---
 
-1mo • 
+1mo •
 
 Too funny.
 
@@ -58,3 +58,4 @@ Maybe he was writing the first architecture diagram for agency.
 1
 
 ![Post media 1](./image-01.jpg)
+

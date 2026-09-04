@@ -4,7 +4,7 @@ date: "2026-07-21"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7485401755942457344"
 ---
 
-1mo • 
+1mo •
 
 Curiosity isn't just a tool for learning—it may be one of the foundations of empathy.
 
@@ -38,3 +38,4 @@ What "nutrients"—people, experiences, environments, or opportunities—have be
 #IGotRoot #GrowingIntelligence #SystemsThinking #FromBiologyToAI #UnderstandingSystems #EmergentIntelligence #HumanPotential
 
 ![Post media 1](./image-01.jpg)
+

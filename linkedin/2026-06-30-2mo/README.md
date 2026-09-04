@@ -4,7 +4,7 @@ date: "2026-06-30"
 source: "https://www.linkedin.com/feed/update/urn:li:activity:7477838886342307840"
 ---
 
-2mo • 
+2mo •
 
 Identity as a Recursive Future Manifold
 We usually define identity by static traits: appearance, labels, materials, or résumés.
@@ -64,3 +64,4 @@ Predictive Identity • World Models • Representation Learning
 1
 
 ![Post media 1](./image-01.jpg)
+

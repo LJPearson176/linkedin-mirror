@@ -6,7 +6,7 @@ cross_posted:
   - "https://www.linkedin.com/feed/update/urn:li:activity:7487927903049990148/"
 ---
 
-1mo • 
+1mo •
 
 This just gives me all sorts of sketch vibes.
 A strange thing happens when a civilization’s memory goes offline.
@@ -22,3 +22,4 @@ The archive is part of the organism.
 #HumanOrigins #Evolution #AI #KnowledgeArchitecture #IGotRoot #SiteMaintenance
 
 ![Post media 1](./image-01.jpg)
+
